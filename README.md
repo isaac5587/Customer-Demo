@@ -1,2 +1,2 @@
 # CustomerDemo ✅
-Customer Demo Sample page to practice JS. 
+Customer Demo sample page to practice JavaScript. 
